@@ -1,4 +1,4 @@
-const countDownDate = new Date("March 4, 2024 00:00:00").getTime();
+const countDownDate = new Date("March 28, 2024 00:00:00").getTime();
 
 function formatNumber(n) {
   if (n < 10) return `0${n}`;
